@@ -1,3 +1,4 @@
+# by NV24219
 hash1 = input("Enter MD5 hash 1: ").strip().lower()
 hash2 = input("Enter MD5 hash 2: ").strip().lower()
 
@@ -9,3 +10,5 @@ elif hash1 == hash2:
 else:
     print("[-] MD5 hashes are different")
     print("[-] No collision detected")
+# by NV24219
+# All right reserved
